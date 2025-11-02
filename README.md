@@ -33,10 +33,10 @@ Probabilidade: [0.66, 0.33]
 
 🧠 Tecnologias Utilizadas
 
-Python 3
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+1.Python 3
+2.Pandas
+3.NumPy
+4.Matplotlib
+5.Seaborn
+6.Scikit-learn
 
